@@ -2,7 +2,7 @@
 	EXPORT Layout:= RECORD
 	UNSIGNED8 id;
 	STRING9 case_number;
-	STRING8 date;
+	STRING10 date;
 	STRING38 block;
 	STRING4 iucr;
 	STRING33 primary_type;
